@@ -1,18 +1,5 @@
-code
+alert("1");
+alert("2");
+alert("3");
 
-d
-
-dsa
-as
-asd
-
-asdasd
-
-
-
-code asdasa
-sd
-asd
-sa
-dsa
-d
+console.log("logging")

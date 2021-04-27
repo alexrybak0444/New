@@ -27,3 +27,4 @@ db.collection("cities").doc("LA").onSnapshot((doc) => {
 });
 
 
+alert("new change");

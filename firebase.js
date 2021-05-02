@@ -28,4 +28,4 @@ db.collection("cities").doc("LA").onSnapshot((doc) => {
 
 
 
-alert("jsdelivr change again");
+alert("jsdelivr change again 2");
